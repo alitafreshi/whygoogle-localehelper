@@ -49,4 +49,6 @@ dependencies {
     androidTestImplementation(Junit.junitTestExt)
     androidTestImplementation(Junit.junitTestExtKtx)
     androidTestImplementation(Espresso.espresso)
+
+    implementation(project(":locale-helper"))
 }

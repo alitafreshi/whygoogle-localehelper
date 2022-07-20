@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Why Google Multi Language</string>
+
+    <string name="tv1">hello</string>
+    <string name="tv2">text</string>
+    <string name="tv3">test</string>
+
 </resources>
